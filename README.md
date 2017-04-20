@@ -33,15 +33,16 @@ Understandably you may not be able to show us production code from your current 
   - (3) a thank you and confirmation screen after the check out, showing some marketing message and confirmation information.
 - Use React.js to implement this application
 - Use some flux framework to manage data flow
-- The product information is given in the json file below, you should load this json file via this public endpoint (https://raw.githubusercontent.com/pkshiu/miniapp/master/products.json)
+- The product information is given in a json file that you should load via a HTTP get at: https://raw.githubusercontent.com/pkshiu/miniapp/master/fixtures/products.json
 - Include build scripts (webpack preferred)
+- You can load the actual product images supplied in this repo as well.
 
 
 ### Rough Screens Mockup:
 
 ![Product Listing](product_list_page_1.png)
 ![Checkout Page](checkout_page_2.png)
-![Thank You Page](thank_ou_page_2.png)
+![Thank You Page](thank_you_page_3.png)
 
 ## Not Required
 
