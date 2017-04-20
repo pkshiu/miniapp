@@ -1,0 +1,39 @@
+{
+  "product_list": [
+    {
+      "item_name": "Palomino pencil",
+      "item_description": "Wonderful wooden pencil that draws a soft dark line",
+      "unit_price": 1.25,
+      "qty_available": 100,
+      "photo": "pencil.jpg"
+    },
+    {
+      "item_name": "Parker Rollerball",
+      "item_description": "Classic rollerball in the jotter style",
+      "unit_price": 25.0,
+      "qty_available": 50,
+      "photo": "rollerball.jpg"
+    },
+    {
+      "item_name": "Rhodia A5 Notepad",
+      "item_dscription": "160 pages of heavy weight, cream color paper",
+      "unit_price": 19.0,
+      "qty_available": 500,
+      "photo": "notepad.jpg"
+    },
+    {
+      "item_name": "Tombow Eraser",
+      "item_description": "Tombow polymer eraser is particularly good for detail work",
+      "unit_price": 2.2,
+      "qty_available": 100,
+      "photo": "eraser.jpg"
+    },
+    {
+      "item_name": "Diamine Jet Blue Ink",
+      "item_description": "130 ml bottle of Diamine ink",
+      "unit_price": 13.99,
+      "qty_available": 100,
+      "photo": "ink.jpg"
+    }
+  ]
+}
